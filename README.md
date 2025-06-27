@@ -24,7 +24,7 @@ A powerful web app built with **Streamlit** to analyze WhatsApp chat data. Get i
 
 ## 🚀 Deployment
 
-This app is deployed on **Render** and accessible [here]([https://your-app-link.onrender.com](https://wca-mohd-anas-5.onrender.com))  
+This app is deployed on **Render** and accessible [here]((https://wca-mohd-anas-5.onrender.com))  
 > *(Replace with actual URL)*
 
 ---
