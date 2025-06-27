@@ -18,14 +18,13 @@ A powerful web app built with **Streamlit** to analyze WhatsApp chat data. Get i
 
 ## 🖼️ Demo
 
-[Insert a screenshot or a video link/gif of your app here]
+[Live App on Render](https://wca-mohd-anas-5.onrender.com)
 
 ---
 
 ## 🚀 Deployment
 
-This app is deployed on **Render** and accessible [here]((https://wca-mohd-anas-5.onrender.com))  
-> *(Replace with actual URL)*
+This app is deployed on **Render** and accessible [here](https://wca-mohd-anas-5.onrender.com)
 
 ---
 
