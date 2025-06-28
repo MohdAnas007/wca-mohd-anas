@@ -18,7 +18,8 @@ A powerful web app built with **Streamlit** to analyze WhatsApp chat data. Get i
 
 ## 🖼️ Demo
 
-[Live App on Render](https://wca-mohd-anas-5.onrender.com)
+🎥 **YouTube Video**: [Watch Demo on YouTube](https://youtu.be/vUafloOwlUA)  
+🌐 **Live App on Render**: [https://wca-mohd-anas-5.onrender.com](https://wca-mohd-anas-5.onrender.com)
 
 ---
 
